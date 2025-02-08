@@ -34,6 +34,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Experiences </h2> 
     <br> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+        🏅 <strong>디랩 코딩 학원 강사 </strong> (2022.08 ~ 2023.02) <br><br>
         🏅 <strong>연합 IT 동아리 UMC</strong> Spring-Server 4기 <strong>파트장</strong> (2023.03 ~ 2023.08) <br><br>
         🏅 <strong>심화 캡스톤 수업 조교</strong> (2023.03 ~ 2023.08) <br><br>
         🏅 <strong>2024 해외 기업 시큐어 코딩 연수생</strong> (2024.01 ~ 2024.02)
