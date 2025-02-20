@@ -2,16 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=2b4d9c&height=120&text=&animation=&fontColor=000000&fontSize=60" />
 </div>
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-        사용자를 위한 서비스를 개발하고 싶은 개발자 임채연입니다.
-    </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        사용자를 위한 서비스를 개발하고자 하는 목표가 있습니다. <br><br>
-        최고의 사용자 경험을 제공하기 위한 성능 최적화에 관심이 있어 공부하고 있습니다.
-    </div> 
-</div>
-
 <br>
 
 <div style="text-align: left;">
