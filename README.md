@@ -40,7 +40,7 @@
         📜 <strong>정보처리기사</strong> (2024.06) <br><br>
         📜 <strong>SQL Developer (SQLD)</strong> (2024.06) <br><br>
         📜 <strong>TOPCIT LEVEL 3</strong> (2024.05) <br><br>
-        🌍 <strong>OPIC IH</strong> (2025.02 - 2027.02) <br>
+        🌍 <strong>OPIC IH</strong> (2025.01 - 2027.01) <br>
     </div> 
 </div>
 
