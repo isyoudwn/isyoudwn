@@ -36,7 +36,7 @@
 
 | 프로젝트 이름 | 설명 | 주요 기술 스택 | 비고 |
 |---------------|------|----------------|------|
-| [UNIVEUS-spring](https://github.com/isyoudwn/univeus) | 축제용 미팅 플랫폼 백엔드 리팩토링 및 성능 개선 프로젝트. 성능, 유지보수성, 확장성을 고려한 구조 설계. | Spring Boot, Spring JPA, MySQL, QueryDSL, MongoDB, Redis, Quartz | 개인 프로젝트 |
+| [UNIVEUS-spring](https://github.com/isyoudwn/univeus) | 축제용 미팅 플랫폼 백엔드 리팩토링 및 성능 개선 프로젝트. 성능, 유지보수성, 확장성을 고려한 구조 설계. | Spring Boot, Spring JPA, MySQL, QueryDSL, MongoDB, Redis, Quartz, Docker, Github Action| 개인 프로젝트 |
 | [UNIVEUS-express](https://github.com/UMC-UNIVEUS/UNIVEUS-backend-before-festival) | 축제용 미팅 서비스 백엔드 | Node.js (Express), MySQL | 팀 프로젝트 |
 
 <br>
