@@ -2,6 +2,15 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=2b4d9c&height=120&text=&animation=&fontColor=000000&fontSize=60" />
 </div>
 
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 About Me </h2> 
+    <br>
+    <p style="font-size: 15px; color: #282d33; line-height: 1.6;">
+        현재 MySQL 데이터베이스 아키텍처와 성능 개선에 대해 공부하고 있습니다. <br>
+        프로젝트를 통해 다양한 도전을 하고, 해결하고 공유하며 함께 성장하는 것을 추구합니다.
+    </p>
+</div>
+
 <br>
 
 <div style="text-align: left;">
@@ -20,6 +29,19 @@
 
 
 <br>
+<br>
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Projects</h2>
+<br>
+
+| 프로젝트 이름 | 설명 | 주요 기술 스택 | 비고 |
+|---------------|------|----------------|------|
+| [UNIVEUS-spring](https://github.com/isyoudwn/univeus) | 축제용 미팅 플랫폼 백엔드 리팩토링 및 성능 개선 프로젝트. 성능, 유지보수성, 확장성을 고려한 구조 설계. | Spring Boot, Spring JPA, MySQL, QueryDSL, MongoDB, Redis, Quartz | 개인 프로젝트 |
+| [UNIVEUS-express](https://github.com/UMC-UNIVEUS/UNIVEUS-backend-before-festival) | 축제용 미팅 서비스 백엔드 | Node.js (Express), MySQL | 팀 프로젝트 |
+
+<br>
+<br>
+
 
 <!-- 경험 -->
 <div style="text-align: left;">
