@@ -20,28 +20,70 @@
 
 <br>
 
+<!-- 경험 -->
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Experiences </h2> 
-    <br> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        🏅 <strong>디랩 코딩 학원 강사 </strong> (2022.08 ~ 2023.02) <br><br>
-        🏅 <strong>연합 IT 동아리 UMC</strong> Spring-Server 4기 <strong>파트장</strong> (2023.03 ~ 2023.08) <br><br>
-        🏅 <strong>심화 캡스톤 수업 조교</strong> (2023.03 ~ 2023.08) <br><br>
-        🏅 <strong>2024 해외 기업 시큐어 코딩 연수생</strong> (2024.01 ~ 2024.02)
-    </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Experiences</h2>
+    <br>
+    <table style="width:100%; border-collapse: collapse; font-size: 15px; color: #282d33;">
+        <thead>
+            <tr style="border-bottom: 1px solid #d8dee4;">
+                <th>활동명</th>
+                <th>기간</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>디랩 코딩 학원 강사</td>
+                <td>2022.08 ~ 2023.02</td>
+            </tr>
+            <tr>
+                <td>UMC Spring-Server 4기 파트장</td>
+                <td>2023.03 ~ 2023.08</td>
+            </tr>
+            <tr>
+                <td>심화 캡스톤 수업 조교</td>
+                <td>2023.03 ~ 2023.08</td>
+            </tr>
+            <tr>
+                <td>2024 해외 기업 시큐어 코딩 연수생</td>
+                <td>2024.01 ~ 2024.02</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 <br>
 
+<!-- 자격증 -->
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Certification </h2> 
-    <br> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        📜 <strong>정보처리기사</strong> (2024.06) <br><br>
-        📜 <strong>SQL Developer (SQLD)</strong> (2024.06) <br><br>
-        📜 <strong>TOPCIT LEVEL 3</strong> (2024.05) <br><br>
-        🌍 <strong>OPIC IH</strong> (2025.01 - 2027.01) <br>
-    </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Certifications</h2>
+    <br>
+    <table style="width:100%; border-collapse: collapse; font-size: 15px; color: #282d33;">
+        <thead>
+            <tr style="border-bottom: 1px solid #d8dee4;">
+                <th>자격명</th>
+                <th>취득일</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>정보처리기사</td>
+                <td>2024.06</td>
+            </tr>
+            <tr>
+                <td>SQL Developer (SQLD)</td>
+                <td>2024.06</td>
+            </tr>
+            <tr>
+                <td>TOPCIT LEVEL 3</td>
+                <td>2024.05</td>
+            </tr>
+            <tr>
+                <td>OPIC IH</td>
+                <td>2025.01</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 <br>
