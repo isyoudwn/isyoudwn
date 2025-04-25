@@ -40,6 +40,19 @@
 | [UNIVEUS-express](https://github.com/UMC-UNIVEUS/UNIVEUS-backend-before-festival) | 축제용 미팅 서비스 백엔드 | Node.js (Express), MySQL | 팀 프로젝트 |
 
 <br>
+<h2>📄 My Publications</h2>
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; background-color: #f9f9f9;">
+  <h3 style="margin-top: 0;">🧺 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11485665" target="_blank">소비자와 세탁소 간 소통이 가능한 세탁소 플랫폼 개발</a></h3>
+  <p><em>대한전자공학회, Journal of the Institute of Electronics Engineers of Korea, 2024</em></p>
+  <p>본 논문에서는 소비자와 세탁소 간의 효율적인 커뮤니케이션을 지원하는 O2O(Online to Offline) 세탁 플랫폼을 설계하고 구현하였습니다. 
+  주문 관리, 상태 알림, 실시간 문의 기능 등을 통합하여 사용자 경험을 개선하고자 하였습니다.</p>
+  <p>
+    🔗 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11485665" target="_blank">DBpia 링크 바로가기</a><br>
+    📌 <strong>주요 키워드:</strong> Laundry Service, O2O Platform, Consumer Communication, UX Design
+  </p>
+</div>
+
 <br>
 
 
