@@ -2,15 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=2b4d9c&height=120&text=&animation=&fontColor=000000&fontSize=60" />
 </div>
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 About Me </h2> 
-    <br>
-    <p style="font-size: 15px; color: #282d33; line-height: 1.6;">
-        현재 MySQL 데이터베이스 아키텍처와 성능 개선에 대해 공부하고 있습니다. <br>
-        프로젝트를 통해 다양한 도전을 하고, 해결하고 공유하며 함께 성장하는 것을 추구합니다.
-    </p>
-</div>
-
 <br>
 
 <div style="text-align: left;">
